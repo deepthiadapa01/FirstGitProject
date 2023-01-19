@@ -3,4 +3,4 @@ this project is about learning git in hours and practicing it every day
 as it is very useful
 
 
-DIstributed version control system
+DIstributed version control system with user friendly environment for developers
