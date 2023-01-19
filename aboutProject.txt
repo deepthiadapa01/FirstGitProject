@@ -2,6 +2,10 @@ this project is about learning git in hours and practicing it every day
 
 as it is very useful
 
+
+THIS IS VERY HELPFUL FOR DEVELOPERS=========
+
 this is very hard to understand
+
 
 DIstributed version control system with user friendly environment for developers
