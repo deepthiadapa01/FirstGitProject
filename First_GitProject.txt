@@ -1,4 +1,3 @@
-autohor: Deepthi,this is done.
-<hi this is my first work in notepad pushing the file directly on to github lets check>
-
-first change done.
+hi everyone i have changed entier file details with new data. 
+lets see how merge happens/
+done changes in happy branch.
