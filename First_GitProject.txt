@@ -1,5 +1,4 @@
-<hi this is my first work in notepad pushing theFirst_GitProject file directly on to github lets check>
-
+the time now is 6:25AM and date is 2/25/2024
 change done by deepthi adapa 
 
 first change done.
