@@ -1,3 +1,5 @@
-<hi this is my first work in notepad pushing the file directly on to github lets check>
+<hi this is my first work in notepad pushing theFirst_GitProject file directly on to github lets check>
+
+change done by deepthi adapa 
 
 first change done.
